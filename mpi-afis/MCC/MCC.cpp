@@ -1,6 +1,6 @@
 /**
  * \file    MCC.cpp
- * \author  Salvador García <sglopez@ujaen.es>
+ * \author  Salvador Garcï¿½a <sglopez@ujaen.es>
  * \version 1.0
  *
  * \section DESCRIPTION

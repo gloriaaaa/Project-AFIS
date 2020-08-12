@@ -30,7 +30,8 @@ IOHandler::IOHandler(int argc, char *argv[])
 	classfiles.clear();
 	inputfiles.clear();
 	featurefiles.clear();
-	output = OUT_SHORT;
+	//output = OUT_SHORT;
+	output = OUT_LONG;
 	fusion = ParallelHandler::FUSION_SUM;
 	outpath = "output";
 	inputclasses = false;

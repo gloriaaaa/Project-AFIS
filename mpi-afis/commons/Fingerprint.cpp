@@ -374,6 +374,7 @@ int Fingerprint::readMinutaeNIGOSfile(const string &name, unsigned int quality){
 					newM.setIndex(i);
 					newM.setX(X);
 					newM.setY(Y);
+					//cout<<Tx<<endl;
 					newM.setT(Tx*2);
 					newM.setQuality(Qxyt);
 					newM.setType(type);

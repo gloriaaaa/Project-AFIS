@@ -1,6 +1,6 @@
 /**
  * \file    main.cpp
- * \author  Salvador García <sglopez@ujaen.es>
+ * \author  Salvador Garca <sglopez@ujaen.es>
  * \version 1.0
  *
  * \section DESCRIPTION
