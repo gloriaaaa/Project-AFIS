@@ -1,0 +1,9 @@
+把NBIS的mindtct和bozorth3拷到NBIS_python里
+
+改一下minutiae_dtct.py 17行的路径和run_bozorth3.py 30行的路径
+
+python minutiae_dtct.py -p /home/gloria/NBIS_python-master/testfvc2002/fvc2002 -s /home/gloria/NBIS_python-master/testfvc2002/fvc2002_result
+
+python movexytfiles.py
+
+python run_bozorth3.py -p /home/gloria/NBIS_python-master/testfvc2002/fvc2002_xyt

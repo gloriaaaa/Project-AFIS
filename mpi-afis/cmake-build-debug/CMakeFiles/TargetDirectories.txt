@@ -1,0 +1,4 @@
+/home/gloria/project-AFIS/mpi-afis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gloria/project-AFIS/mpi-afis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gloria/project-AFIS/mpi-afis/cmake-build-debug/CMakeFiles/DPDDFF.dir
+/home/gloria/project-AFIS/mpi-afis/cmake-build-debug/CMakeFiles/genericMatching.dir
